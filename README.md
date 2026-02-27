@@ -12,11 +12,12 @@ And since my friend gave me an old ATX power supply, I decided to turn it into m
 -  3.3V Output
 -  5V Outputs
 -  12V Outputs
--  A 150W 0.5-40V @ 0-8A variable output
--  A Bluetooth interface for the variable power output
--  A small TFT screen to show some graphs and values regarding the variable power output and battery charging.
--  XT60 Male connector to charge lithium batteries
 -  Protection fuses
+It has a SK150C module that offers :
+-  A 150W 0.5-40V @ 0-8A variable output
+-  A Bluetooth interface
+-  A battery charging circuit feature
+-  A small TFT screen to show some graphs and values regarding the variable power output and battery charging
 ## CAD 🎨
 ## Wiring diagram 🔌
 ## Finished product 💎
@@ -29,5 +30,6 @@ Remixing is also allowed, as long as the original project is linked and credited
 ## Credits ❤️
 Made by **Oussama NAOUAR**
 
-Total logged work time : 
+Total logged work time : ~33hrs
 ## BOM 💵
+
