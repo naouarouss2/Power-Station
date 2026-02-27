@@ -19,8 +19,13 @@ It has a SK150C module that offers :
 -  A battery charging circuit feature
 -  A small TFT screen to show some graphs and values regarding the variable power output and battery charging
 ## CAD 🎨
+<img width="932" height="661" alt="image" src="https://github.com/user-attachments/assets/8acbedca-d95b-440a-aad7-d0bbda3c61ce" />
+<img width="941" height="736" alt="image" src="https://github.com/user-attachments/assets/3e3e42ff-fd65-4dcb-ad1a-bd01be6c83b7" />
 ## Wiring diagram 🔌
+
 ## Finished product 💎
+![1772222175056](https://github.com/user-attachments/assets/d8bd1ca3-8214-4c3d-998e-9db291d4c581)
+![1772222175051](https://github.com/user-attachments/assets/516fe257-22ea-4d3a-a2c2-2af599a0e1e2)
 ## License 🔓
 This project is put **opensource**.
 
@@ -54,6 +59,7 @@ Prices shown for the terminals are **approximate**. They were calculated based o
 |1,5mm² Ferrule Terminal|Ferrules connector                                 |Brico Direct             |Yes  |https://brico-direct.tn/autres-accessoires-autos/13304-coffret-de-685-cosses-a-sertir-viroles-yato-5906083068492.html                                                  |0,01      |2          |0,02       |
 |2,5mm² Ferrume Terminal|Ferrules connector                                 |Brico Direct             |Yes  |https://brico-direct.tn/autres-accessoires-autos/13304-coffret-de-685-cosses-a-sertir-viroles-yato-5906083068492.html                                                  |0,01      |2          |0,02       |
 |Screw Terminal Blocks  |Connectors used to connect 2 wires together        |Hardware Store           |Yes  |N/A                                                                                                                                                                    |0,17      |6          |1,02       |
-|10A Fuse               |10A Glass, 5*20mm, fast blow fuse                  |Seli                     |Yes  |https://seli.tn/product/fusible-en-verre-f3-f5-et-f6/                                                                                                                  |0,9       |4          |3,6        |
+|10A Fuse               |10A Glass, 5*20mm, fast blow fuse                  |Seli                     |Yes  |https://seli.tn/product/fusible-en-verre-f3-f5-et-f6/                                                                                                                  |0,09      |4          |0,36       |
+|8Ohm Load Resistor     |8Ohm 50W resistor                                  |Seli                     |Yes  |https://seli.tn/product/resistance-bobinee-boitier-en-aluminium-50w-8ohm/                                                                                              |4         |1          |4          |
 |Laser-cut parts        |The enclosure                                      |FabLab                   |Yes  |N/A                                                                                                                                                                    |6,12      |1          |6,12       |
-|                       |                                                   |                         |     |                                                                                                                                                                       |          |GRAND TOTAL|46,9       |
+|                       |                                                   |                         |     |                                                                                                                                                                       |          |GRAND TOTAL|47,66      |
