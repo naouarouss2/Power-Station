@@ -21,8 +21,9 @@ It has a SK150C module that offers :
 ## CAD 🎨
 <img width="932" height="661" alt="image" src="https://github.com/user-attachments/assets/8acbedca-d95b-440a-aad7-d0bbda3c61ce" />
 <img width="941" height="736" alt="image" src="https://github.com/user-attachments/assets/3e3e42ff-fd65-4dcb-ad1a-bd01be6c83b7" />
-## Wiring diagram 🔌
 
+## Wiring diagram 🔌
+![612ebb01-eecc-4abe-9916-5eb737ad02be](https://github.com/user-attachments/assets/1c15856c-830d-4978-92e1-00fe5f8a614b)
 ## Finished product 💎
 ![1772222175056](https://github.com/user-attachments/assets/d8bd1ca3-8214-4c3d-998e-9db291d4c581)
 ![1772222175051](https://github.com/user-attachments/assets/516fe257-22ea-4d3a-a2c2-2af599a0e1e2)
@@ -63,3 +64,4 @@ Prices shown for the terminals are **approximate**. They were calculated based o
 |8Ohm Load Resistor     |8Ohm 50W resistor                                  |Seli                     |Yes  |https://seli.tn/product/resistance-bobinee-boitier-en-aluminium-50w-8ohm/                                                                                              |4         |1          |4          |
 |Laser-cut parts        |The enclosure                                      |FabLab                   |Yes  |N/A                                                                                                                                                                    |6,12      |1          |6,12       |
 |                       |                                                   |                         |     |                                                                                                                                                                       |          |GRAND TOTAL|47,66      |
+
