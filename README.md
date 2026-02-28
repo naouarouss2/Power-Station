@@ -47,7 +47,7 @@ Remixing is also allowed, as long as the original project is linked and credited
 ## Credits ❤️
 Made by **Oussama NAOUAR**
 
-Total logged work time : ~33hrs
+Total logged work time : ~36hrs
 ## BOM 💵
 
 Prices below have been **converted from TND to USD based on the rates between 04-02-2026 and 27-02-2026**
@@ -75,5 +75,6 @@ Prices shown for the terminals are **approximate**. They were calculated based o
 |8Ohm Load Resistor     |8Ohm 50W resistor                                  |Seli                     |Yes  |https://seli.tn/product/resistance-bobinee-boitier-en-aluminium-50w-8ohm/                                                                                              |4         |1          |4          |
 |Laser-cut parts        |The enclosure                                      |FabLab                   |Yes  |N/A                                                                                                                                                                    |6,12      |1          |6,12       |
 |                       |                                                   |                         |     |                                                                                                                                                                       |          |GRAND TOTAL|47,66      |
+
 
 
