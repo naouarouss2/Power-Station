@@ -528,5 +528,7 @@ So I hopped in Freeform on my iPad and made this simple, yet complete wiring dia
 
 ![612ebb01-eecc-4abe-9916-5eb737ad02be](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEyOTU5LCJwdXIiOiJibG9iX2lkIn19--e52d7cac63f07a96838271b8a3c8190f89bb4d99/612ebb01-eecc-4abe-9916-5eb737ad02be.jpeg)
 
-Finally, I added it to my README, and now everything should be ready !  
+Finally, I added it to my README, and now everything should be ready !
+
+I kept the fuses 10A. These should give me about 350W total output.  
 
