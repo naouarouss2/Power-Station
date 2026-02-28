@@ -18,6 +18,17 @@ It has a SK150C module that offers :
 -  A Bluetooth interface
 -  A battery charging circuit feature
 -  A small TFT screen to show some graphs and values regarding the variable power output and battery charging
+## How to use it ? 📃
+
+Turn on your Power Station, **wait for 2 seconds**, and it should be ready to go !
+
+Connect your prototyping circuits to the needed output, or to the variable output if the needed voltage doesn't match any of the fixed outputs, or you need measurements on the go.
+
+Using the fixed outputs is straight forward !
+
+To use the variable ouput, I recommend checking the documentation for the SK150C module [here](http://www.qingdaowuzhi.cn/ins/sk150c/sk150cins.pdf).
+
+You should also insert **10A 5*20mm fast blow fuses** in all 4 fuse holders.
 ## CAD 🎨
 <img width="932" height="661" alt="image" src="https://github.com/user-attachments/assets/8acbedca-d95b-440a-aad7-d0bbda3c61ce" />
 <img width="941" height="736" alt="image" src="https://github.com/user-attachments/assets/3e3e42ff-fd65-4dcb-ad1a-bd01be6c83b7" />
@@ -64,4 +75,5 @@ Prices shown for the terminals are **approximate**. They were calculated based o
 |8Ohm Load Resistor     |8Ohm 50W resistor                                  |Seli                     |Yes  |https://seli.tn/product/resistance-bobinee-boitier-en-aluminium-50w-8ohm/                                                                                              |4         |1          |4          |
 |Laser-cut parts        |The enclosure                                      |FabLab                   |Yes  |N/A                                                                                                                                                                    |6,12      |1          |6,12       |
 |                       |                                                   |                         |     |                                                                                                                                                                       |          |GRAND TOTAL|47,66      |
+
 
